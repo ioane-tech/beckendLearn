@@ -1,0 +1,21 @@
+{
+  "name": "node.js-learn",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon Http.js"
+  },
+  "keywords": [],
+  "author": "ioane",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0",
+    "superheroes": "^3.0.0"
+  }
+}
